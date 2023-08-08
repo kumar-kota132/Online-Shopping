@@ -1,0 +1,47 @@
+*{
+    font-family: 'Libre Baskerville', serif;
+    
+    
+}
+.nav-link{
+font-size: x-large
+}
+.navbar-brand img{
+    height: 5rem;
+    width: 5rem;
+}
+.active{
+    font-size: xx-large;
+}
+.carousel-item{
+    height: 25rem;
+}
+.carousel-item img{
+    height: 25rem;
+}
+.col img{
+    height: 17rem;
+    width: 18rem;
+}
+.foot img{
+    height: 5rem;
+    width: 7rem;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    border-top: 1px solid #333;
+    background-color: #333;
+    color: white;
+    
+}
+.About{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content :space-evenly;
+}
+.image img{
+    height: 3rem;
+}

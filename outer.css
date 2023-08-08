@@ -1,0 +1,17 @@
+.card img{
+    width: 17.8rem;
+    height: 20rem;
+}
+.navbar-brand img{
+    height: 5rem;
+    width: 5rem;
+}
+*{
+    font-family: 'Libre Baskerville', serif;  
+}
+.nav-link{
+    font-size: x-large
+}
+.g-3{
+padding:0% 10%;
+}
